@@ -30,3 +30,10 @@ Note that __C for V__ here is any and all of
 As with all overview (ov-) project repositories, this repo contains associated and helpful documents and suggested for code or other components that will be developed and tracked in other repositories.
 
 The documents contained within this repository will ideally be helpful and useful in general, rather than describing and/or specifying a particular project and its components.
+
+## Project Policies
+
+Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Code for Vegas Foundation policies for Code of Conduct and Contributing, found at
+
+* [Code of Conduct - Code for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing to this Project - Code for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md)
