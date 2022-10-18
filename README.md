@@ -19,6 +19,8 @@
 
 # Infrastructure for C for V Overview
 
+This Overview repository is a specification and documentation component of the Infrastructure for CforV Project. Please do not add code or other resources to this repository.
+
 Infrastructure for the various parts of our organization, including tools, methods, howtos, and so much more.
 
 Note that __C for V__ here is any and all of
