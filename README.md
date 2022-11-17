@@ -1,14 +1,14 @@
 <!--
  Copyright (C) 2022 Innovate for Vegas Foundation
  
- This file is part of ov-infrastructure-for-cforv.
+ This file is part of ov-infrastructure.
  
- ov-infrastructure-for-cforv is free software: you can redistribute it and/or modify
+ ov-infrastructure is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation, either version 3 of the License, or
  (at your option) any later version.
  
- ov-infrastructure-for-cforv is distributed in the hope that it will be useful,
+ ov-infrastructure is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty of
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  GNU General Public License for more details.
@@ -17,15 +17,15 @@
  along with ov-infrastructure-for-cforv.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# Infrastructure for C for V Overview
+# Infrastructure Overview
 
-This Overview repository is a specification and documentation component of the Infrastructure for CforV Project. Please do not add code or other resources to this repository.
+This Overview repository is a specification and documentation component of the Infrastructure Project. Please do not add code or other resources to this repository.
 
 Infrastructure for the various parts of our organization, including tools, methods, howtos, and so much more.
 
 Note that herein we will cover any or all of
 
-* [Innovate for Vegas Foundation and innovateforvegas.org](https://innovateforvegas.org) website and associated infrastrucutre, tools, utils, etc.
+* [Innovate for Vegas Foundation and innovateforvegas.org](https://innovateforvegas.org) website and associated infrastructure, tools, utils, etc.
 * [CreateFor.Vegas](https://createfor.vegas) website and associated stuff
 * [CodeFor.Vegas](https://codefor.vegas) website and associated stuff
 
