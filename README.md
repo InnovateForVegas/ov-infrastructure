@@ -23,9 +23,9 @@ This Overview repository is a specification and documentation component of the I
 
 Infrastructure for the various parts of our organization, including tools, methods, howtos, and so much more.
 
-Note that __C for V__ here is any and all of
+Note that herein we will cover any or all of
 
-* Innovate for Vegas Foundation and [codeforvegas.org](https://codeforvegas.org) website
+* [Innovate for Vegas Foundation and innovateforvegas.org](https://innovateforvegas.org) website and associated infrastrucutre, tools, utils, etc.
 * [CreateFor.Vegas](https://createfor.vegas) website and associated stuff
 * [CodeFor.Vegas](https://codefor.vegas) website and associated stuff
 
@@ -37,5 +37,5 @@ The documents contained within this repository will ideally be helpful and usefu
 
 Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
 
-* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
-* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md)
+* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
