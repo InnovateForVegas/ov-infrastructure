@@ -45,3 +45,13 @@ Unless otherwise and specifically indicated with replacement files in this repos
 All Innovate for Vegas Foundation projects, whether CodeFor or CreateFor, assume contributors and collaborators are familiar with the HOWTOs that detail such things as use of GitHub, the difference between CodeFor and CreateFor parts of our organization, and our approach to Agile for Volunteers (or Volunteer Agile) which will, like all our projects, be a collaborative work in progress. These, coupled with the Contributing document linked above, are important and you should be familiar with them before diving in.
 
 * [Organization HOWTOs](https://github.com/InnovateForVegas/doc-org-howtos)
+
+## Moving This Organization Forward Together
+
+In order to remain somewhat organized (we are all volunteers, after all), please file an Issue against this repository for any organization and infrastructure items that need attention, that do not have an existing project repository open and active (this is true of all projects, in fact). If there is something missing from the HOWTO repository above, file the issue (or a pull request if you are feeling proactive) there, of course, but the general backlog of our organizational and infrastructural issues goes here.
+
+[Organization Infrastructure Issue Backlog](https://github.com/InnovateForVegas/ov-infrastructure/issues)
+
+If you are not already in possession of a GitHub account, or if you need to become a member of our organization to participate with the rest of us, please check out this page of our HOWTOs (especially Getting Started item 2, but do read the whole thing!):
+
+[Welcome, Getting Started](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/welcome.md#getting-started)
