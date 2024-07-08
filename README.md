@@ -19,15 +19,16 @@
 
 # Infrastructure Overview
 
-This Overview repository is a specification and documentation component of the Infrastructure Project. Please do not add code or other resources to this repository.
+This Overview repository is a specification and documentation component of the Infrastructure Project.
 
-Infrastructure for the various parts of our organization, including tools, methods, howtos, and so much more.
+**Please do not add code or other resources to this repository.**
+
+Infrastructure for the various parts of our organization, including tools, methods, documentation and howtos, and so much more.
 
 Note that herein we will cover any or all of
 
 * [Innovate for Vegas Foundation and innovateforvegas.org](https://innovateforvegas.org) website and associated infrastructure, tools, utils, etc.
-* [CreateFor.Vegas](https://createfor.vegas) website and associated stuff
-* [CodeFor.Vegas](https://codefor.vegas) website and associated stuff
+* Useful tools, methods, and other elements which might be helpful for related initiatives (Challengers, For, talks, etc.)
 
 As with all overview (ov-) project repositories, this repo contains associated and helpful documents and suggested for code or other components that will be developed and tracked in other repositories.
 
@@ -42,7 +43,7 @@ Unless otherwise and specifically indicated with replacement files in this repos
 
 ## Organization Workflow
 
-All Innovate for Vegas Foundation projects, whether CodeFor or CreateFor, assume contributors and collaborators are familiar with the HOWTOs that detail such things as use of GitHub, the difference between CodeFor and CreateFor parts of our organization, and our approach to Agile for Volunteers (or Volunteer Agile) which will, like all our projects, be a collaborative work in progress. These, coupled with the Contributing document linked above, are important and you should be familiar with them before diving in.
+All Innovate for Vegas Foundation projects  assume contributors and collaborators are familiar with the HOWTOs that detail such things as use of GitHub, the difference between CodeFor and CreateFor parts of our organization, and our approach to Agile for Volunteers (or Volunteer Agile) which will, like all our projects, be a collaborative work in progress. These, coupled with the Contributing document linked above, are important and you should be familiar with them before diving in.
 
 * [Organization HOWTOs](https://github.com/InnovateForVegas/doc-org-howtos)
 
